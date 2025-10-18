@@ -51,5 +51,5 @@ $$
 
 ### Examples
 1. For $G=\mathbb{R}^{\times}_{>0}$ and $\mathfrak{g}=\mathbb{R}^+$, the Lie exponential is the usual exponential function $e^x$.
-2. For $G=S^1$ the [[Circle group|circle group]], the one-parameter subgroup is $\gamma(t)=e^{it}$, so the Lie exponential coincides with the complex exponential.
+2. For $G=S^1\cong SO(2)\cong U(1)$ the [[Orthogonal and unitary groups|circle group]], the one-parameter subgroup is $\gamma(t)=e^{it}$, so the Lie exponential coincides with the complex exponential.
 
