@@ -24,6 +24,10 @@ A Lie group which is a closed (under the topology) subgroup of $GL(n,F)$ is call
 [[Symplectic group]]
 [[Heisenberg group]]
 
+### Non-examples
+- Elliptic curves over $\mathbb{C}$
+- The universal cover of $SL(n,\mathbb{R})$ 
+
 ### Topological properties
 #### Compactness
 A matrix Lie group $G \subset GL(n,F)$ is **compact** if it is closed and bounded (under the [[!General linear group|matrix norm]]) as a subset of $M(n\times n, F) \cong F^{n^2}$.

@@ -73,7 +73,7 @@ $$
 For matrices $X$, the derivative is $$
 \frac{d}{dt} \exp(Xt)=X\exp(Xt)
 $$
-##### Product formula (matrices)
+##### Lie's product formula (matrices)
 $$
 \exp(X+Y)=\lim_{ n \to \infty } \left( e^{X/n} e^{Y/n}\right)^n
 $$

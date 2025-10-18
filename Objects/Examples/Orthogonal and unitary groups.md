@@ -66,3 +66,14 @@ Similarly to [[Special linear group|special linear group]], the dimension of $SU
 
 
 ## Lie algebras
+### Orthogonal
+
+### Unitary
+The Lie algebra of $U(n)$ is 
+$$
+\begin{align}
+\mathfrak{u}_{n}& :=\{ X \in M(n,\mathbb{C}) \; | \; \exp(tX) \in U(n) \} \\
+&= \{ X \in M(n,\mathbb{C}) \;|\; X^* + X = 0 \}
+\end{align}
+$$
+The additive relation in the Lie algebra corresponds to the multiplication of exponentials.
