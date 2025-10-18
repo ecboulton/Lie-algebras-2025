@@ -9,7 +9,7 @@ A **Lie algebra** $\mathfrak{g}$ is a vector space over a field $F$, equipped wi
 For associative algebras, the Lie bracket is the commutator $[a,b]:=ab-ba$.
 
 ### Conceptual insight
-Let $G$ be a Lie group with Lie algebra $\mathfrak{g}$. There is a natural vector space identification between $\mathfrak{g}$ and the tangent space $T_{1_{G}} G$, via the [[Exponential and logarithm maps|exponential map]]. 
+Let $G$ be a Lie group with Lie algebra $\mathfrak{g}$. There is a natural vector space identification between $\mathfrak{g}$ and the tangent space $T_{1_{G}} G$, via the [[!Exponential and logarithm maps|exponential map]]. 
 
 ### Properties
 Property 2 (alternating, $[X,X]=0$) implies anticommutativity, $[X,Y]=-[Y,X]$. In $\text{char}(F)\neq 2$ they are equivalent.

@@ -29,7 +29,7 @@ This map has the following properties:
 
 
 ## Lie group from Lie algebra
-The group $G$ can be obtained from $\mathfrak{g}$ by the [[Exponential and logarithm maps|exponential map]].
+The group $G$ can be obtained from $\mathfrak{g}$ by the [[!Exponential and logarithm maps|exponential map]].
 
 Note that this mapping isn't necessarily surjective, so we may not be able to recover all of $G$ from the $\exp$ map. The cases where it's surjective are:
 - $G$ is connected and compact
