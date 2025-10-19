@@ -23,6 +23,10 @@ A space equipped with a symplectic form $B$ is a **symplectic space**. Necessari
 The **symplectic group** is $$
 Sp(2n,F)=\{ A \in GL(2n, F) \; | \; A^T JA =J\} \subset SL(2n,F)
 $$
+~~It's useful to write the condition as $A^T J = JA^{-1}$, as this plays nicely with the [[!Exponential and logarithm maps|exponential map]] as~~
+
+~~$\exp(A^T) + \exp(J)=\exp(A^T J)=-\exp(J A)=-\exp(J) - \exp(A)$ gives the condition $A^T J + JA = 0$~~
+
 The fact that the determinant is $\pm 1$ follows from the definition, and in fact it is $+1$ for fields $F$.
 
 ~~It has degree $n(2n+1)$ over $F$.~~

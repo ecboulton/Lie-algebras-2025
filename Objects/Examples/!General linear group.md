@@ -15,3 +15,10 @@ $$
 
 
 ## Lie algebra
+The Lie algebra associated to $GL(n,F)$ is $$
+\begin{align}
+\mathfrak{gl}(n,F)& := \{ X \in M_{n}(F) \;\vert\; e^{tX} \in GL(n,F) \;\; \forall t \in \mathbb{R} \} \\
+& = M_{n} (F)
+\end{align}
+$$
+This is because $GL(n,F)$ is an open (via the continuous determinant map not zero) submanifold of $M_{n}(F)$, and the [[Tangent space|tangent space of an open submanifold]] is (isomorphic to) the ambient space.

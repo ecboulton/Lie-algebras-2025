@@ -18,15 +18,26 @@ With anticommutativity, the Jacobi identity is expressible as a derivation of th
 
 
 ### Examples
-[[!General linear group]]
-[[Special linear group]]
-[[Orthogonal and unitary groups]]
-[[Symplectic group]]
-[[Heisenberg group]]
+[[!General linear group]]: $\mathfrak{gl}(n,F)=M(n,F)$
+- All matrix Lie groups are submanifolds of $GL(n,F)$ so their algebras (and more generally tangent spaces) are subsets of $\mathfrak{gl}(n,F)=M(n,F)$.
+
+[[Special linear group]]: $\mathfrak{sl}(n,F)=\{ X \in M(n,F) \; | \; \mathrm{Tr}(X)=0 \}$
+
+[[Orthogonal and unitary groups]]: 
+* $\mathfrak{o}(n)=\{ X \in M(n,\mathbb{R}) \; | \; X^T = -X \}$
+	* $\mathfrak{so}(n)$ is $\mathfrak{o}(n)$ with the condition that $\mathrm{Tr}(X)=0$ due to $\mathfrak{sl}(n)$. This is automatically true when $X^T=-X$.
+	* $\mathfrak{so}(n)=\mathfrak{o}(n)$
+* $\mathfrak{u}(n)=\{ X \in M(n,\mathbb{C}) \; | \; X^* = -X \}$
+	* $\mathfrak{su}(n)$ is $\mathfrak{u}(n)$ with the condition that $\mathrm{Tr}(X)=0$. This is stronger, because $X^*=-X$ only implies the trace is in $i\mathbb{R}$.
+	* $\mathfrak{su}(n) \subsetneq \mathfrak{u}(n)$
+
+[[Symplectic group]]: $\mathfrak{sp}(2n,F)=\{ X \in M(2n,F) \; | \; JX+X^TJ=0 \}$
+
+[[Heisenberg group]]: $\mathfrak{h}=\{ X \in M(3,\mathbb{R}) \; | \; X \text{ is strict upper triangular} \}$
 
 ## Morphisms
 ### Definition
-A **morphism of Lie algebras** is a map $\phi:\mathfrak{g} \to \mathfrak{h}$ which is linear and for which $\phi([X,Y]) = [\phi(x),\phi(Y)]$.
+A **morphism of Lie algebras** is a map $\phi:\mathfrak{g} \to \mathfrak{g}'$ which is linear and for which $\phi([X,Y]) = [\phi(x),\phi(Y)]$.
 
 
 

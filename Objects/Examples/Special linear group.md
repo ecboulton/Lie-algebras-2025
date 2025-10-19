@@ -7,3 +7,7 @@ Dimension is $n^2-1$.
 It is a matrix Lie group.
 
 ## Lie algebra
+$SL(n,F)$ is the level set $\det ^{-1} (1)$, so the tangent space at the identity is the kernel of the derivative $d \det$ at the identity. The derivative is $\mathrm{Tr}(X)$, so the tangent space at the identity (and hence the Lie algebra) is $$
+\mathfrak{sl}(n,F)=\{ X \in M(n,F) \; | \; \mathrm{Tr}(X)=0 \}
+$$
+

@@ -12,5 +12,10 @@ A manifold is **smooth** if all transition maps are smooth, i.e. $C^\infty$, as 
 ### Definition: Smooth maps on manifolds
 A map $f: M \to N$ between smooth manifolds is called **smooth** if for each $x\in M$ with chart $(U,\alpha)$ and its corresponding $f(x)\in N$ with chart $(V,\beta)$, the map $\beta \circ f \circ \alpha ^{-1}$ is smooth, i.e. $C^\infty$.
 
+## Submanifolds
+A **submanifold** $S$ of $M$ is a subset of $M$ with the structure of a manifold. Often the inclusion (or submanifold) map $i: S \to M$ is taken to be an **immersion** (the derivative is everywhere injective) and also often to be everywhere injective itself.
+
+
+
 ## Properties
 1. A manifold is path-connected if and only if it is connected.
