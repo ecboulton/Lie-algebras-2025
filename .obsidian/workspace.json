@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3cd512e1dc9a8a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bae09d16c29a74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca3f8692dca200b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Structure of semisimple algebras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure of semisimple algebras"
+            }
+          },
+          {
+            "id": "6b98cc3a77530fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Core/Lie algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lie algebra"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41d9ad06c237a182",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6732c3493c85c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b030cb4eb24fc16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf4677c271c3f640",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17afdcdda5e05b9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb736f4f48fab62a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bdfde3aefa6b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f5f524b5f19f73a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Objects/!Key theorems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for !Key theorems"
+            }
+          },
+          {
+            "id": "1002d050b08a7f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topological group.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Topological group"
+            }
+          },
+          {
+            "id": "636558b9b218ebb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b108a6f3279ddb3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topological group.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Topological group"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6b98cc3a77530fb6",
+  "lastOpenFiles": [
+    "Notes/Structure of nilpotent and solvable algebras.md",
+    "Notes/Structure of semisimple algebras.md",
+    "Notes/Core/!Index.md",
+    "Notes/Simple, semisimple, solvable, nilpotent.md",
+    "Notes/Topological groups.md",
+    "Notes/Tangent space.md",
+    "Notes/Symplectic group.md",
+    "Notes/Special linear group.md",
+    "Notes/Representations.md",
+    "Notes/Orthogonal and unitary groups.md",
+    "Notes/One-parameter subgroup.md",
+    "Notes/Manifold.md",
+    "Notes/Lorentz group.md",
+    "Notes/Killing form.md",
+    "Notes/Heisenberg group.md",
+    "Notes/Germ.md",
+    "Notes/General linear group.md",
+    "Notes/Formal power series.md",
+    "Notes/Flag.md",
+    "Notes/Derivations.md",
+    "Notes/Cartan subalgebra and root decomposition.md",
+    "Notes/Bilinear form.md",
+    "Notes/Baker-Campbell-Hausdorff formula.md",
+    "Notes/Core/Lie group.md",
+    "Notes/Core/Lie algebra.md",
+    "!General linear group.md",
+    "!wip",
+    "Notes/Core",
+    "Project"
+  ]
+}
