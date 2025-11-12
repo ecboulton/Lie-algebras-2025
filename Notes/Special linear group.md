@@ -14,6 +14,16 @@ It is a matrix Lie group.
 $SL(n,F)$ is the level set $\det ^{-1} (1)$, so the tangent space at the identity is the kernel of the derivative $d \det$ at the identity. The derivative is $\mathrm{Tr}(X)$, so the tangent space at the identity (and hence the Lie algebra) is $$
 \mathfrak{sl}(n,F)=\{ X \in M(n,F) \; | \; \mathrm{Tr}(X)=0 \}
 $$
+### Specific examples
+
+#### Complex dimension 2
+
+
+#### Complex dimension 3
+
+
+#### Complex dimension n
+
 
 ## Simplicity
 TODO

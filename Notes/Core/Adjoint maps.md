@@ -29,3 +29,18 @@ Conjugation is linear, so $\text{Ad}_{g}$ is linear. Also, $\exp(t(gXg^{-1}))=g 
 ### Adjoint representation of algebra
 
 Taking the derivative of $\text{Ad}: G \to \text{Aut}(\mathfrak{g})$ at the identity
+
+#### Adjoint action
+The **adjoint action** of $\mathfrak{g}$ on itself is $$
+\begin{align}
+\text{ad}: \mathfrak{g \times g} & \to \mathfrak{g} \\
+\text{ad}_{x}: y & \mapsto [x,y] 
+\end{align}
+$$
+The action on a subalgebra $\mathfrak{h}$ of $\mathfrak{g}$ is the restriction: $$
+\text{ad}|_{\mathfrak{h}}
+$$
+
+
+
+Let $\mathfrak{h}$ act on $\mathfrak{g}$ by the [[Adjoint maps|adjoint action]] $\text{ad}: \mathfrak{g \times g \to g}$, $\text{ad}_{x}: y \mapsto [x,y]$, where to get the action of $\mathfrak{h}$ on $\mathfrak{g}$ we set $x \in \mathfrak{h}$, or equivalently, restrict the map with $\text{ad}|_{\mathfrak{h}}$. 
